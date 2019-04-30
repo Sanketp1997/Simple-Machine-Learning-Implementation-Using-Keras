@@ -13,3 +13,7 @@ The csv file contains 4 fields (3 intergers and a result).
 
 Install all necessary libraries (check [.ipynb](https://github.com/Sanketp1997/Simple-Machine-Learning-Implementation-Using-Keras/blob/master/simple_ml.ipynb) import statements.)
 
+## Testing:
+
+You can test the program with your own inputs as follows : { p =estimator.predict(numpy.array([[x,y,z]],numpy.int32)) }.
+Enter values of 'x','y' and 'z'.
